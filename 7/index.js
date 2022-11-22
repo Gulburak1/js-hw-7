@@ -43,5 +43,5 @@ class MyString {
 }
 let str = new MyString();
 console.log(str.reverse('Taalaibek kyzy Gulburak'));
-console.log(str.ucFirst('i want to get more points'));
-console.log(str.ucWords('excuse me, I'm Gulburak'));
+console.log(str.ucFirst('I want to get more points'));
+console.log(str.ucWords('excuse me, I am Gulburak'));
